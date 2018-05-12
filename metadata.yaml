@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40989'
     url: http://www.gutenberg.org/2009/agents/40989
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41111#The-Wonder-Book-of-KnowledgeSimply-Explained
 gutenberg_issued: '2012-10-19'
 gutenberg_type: Text
 identifiers:
