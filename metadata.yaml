@@ -1,0 +1,26 @@
+_repo: The-Wonder-Book-of-KnowledgeSimply-Explained_41111
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41111-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Hill, Henry Chase
+    gutenberg_agent_id: '40989'
+    url: http://www.gutenberg.org/2009/agents/40989
+description: ''
+gutenberg_issued: '2012-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Industrial arts -- History'
+- !lcc 'T'
+title: "The Wonder Book of Knowledge\r\nThe Marvels of Modern Industry and Invention,\
+  \ the Interesting Stories of Common Things, the Mysterious Processes of Nature Simply\
+  \ Explained"
+url: http://www.gutenberg.org/ebooks/41111
